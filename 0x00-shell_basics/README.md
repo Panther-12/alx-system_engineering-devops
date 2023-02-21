@@ -7,4 +7,7 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents. Long format, with user and group IDs displayed numerically and hidden files (starting with .)
 Script that creates a directory named myfirstdirectory in the /tmp/directory.
 Move the file betty from /tmp/ to /tmp/myfirstdirectory.
+Delete the file betty.
+Delete the directory myfirstdirectory that is in the /tmp directory.
+Script that changes the working directory to the previous one.
 
